@@ -1,0 +1,6 @@
+{
+  "name": "EASYGROCERY",
+  "description": "A boutique e-commerce platform for EASYGROCERY, featuring South Indian products, shopping cart, reviews, order tracking, and interactive support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
